@@ -8,8 +8,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "os-utils": "^0.0.14"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Incarone/github-actions-nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Incarone/github-actions-nodejs/issues"
+  },
+  "homepage": "https://github.com/Incarone/github-actions-nodejs#readme",
+  "description": ""
 }
